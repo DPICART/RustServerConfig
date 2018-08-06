@@ -1,4 +1,5 @@
 # RustServerConfig
+# 51.254.90.185
 
 server.hostname "[FR] LES MONTAGNARDS - WIPED LUNDI 06/08/18 "
 
