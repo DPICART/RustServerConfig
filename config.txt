@@ -1,5 +1,7 @@
 # RustServerConfig
 # 51.254.90.185
+# https://image.ibb.co/fbWETz/image_320818_342805.gif
+# https://topg.org/rust_banner_maker
 
 server.hostname "[FR] LES MONTAGNARDS - WIPED LUNDI 06/08/18 "
 
