@@ -6,7 +6,7 @@
 
 server.hostname "[FR] LES MONTAGNARDS - WIPED LUNDI 06/08/18 "
 
-server.description "Bienvenue sur notre serveur RUST VANILLA (= sans MOD). L'expérience RUST authentique du terroire. \nLes règles sont simples:\n-WIPE MAP chaque lundi à 4h du matin\n-Pas de WIPE blueprint sauf si imposée par les développeurs\n-Supply event chaque heure afin de récompenser les joueurs les plus persévérents\n-Pas de triche ou d'exploitation de glitch (Vous pouvez me signaler les perturbateurs ici @ mistergrosbot at gmail dot com) \n-Pas d'insulte concernant les mamans\n\nTout le reste est autorisé.\n\nBon jeu !"
+server.description "Bienvenue sur notre serveur RUST VANILLA (= sans MOD). L'expérience RUST authentique du terroire. \nLes règles sont simples:\n-WIPE MAP chaque lundi à 4h du matin\n-Pas de WIPE blueprint sauf si imposée par les développeurs\n-Supply event chaque heure afin de récompenser les joueurs les plus persévérents\n-Pas de triche ou d'exploitation de glitch (Vous pouvez me signaler les perturbateurs ici @ mistergrosbot at gmail dot com) \n-Pas d'insulte concernant les mamans\n\nTout le reste est autorisé.\n\nLe Github de config: https://github.com/DPICART/RustServerConfig \n\nBon jeu !"
 
 server.maxplayers 200
 server.seed 800
