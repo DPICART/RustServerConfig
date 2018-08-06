@@ -1,0 +1,27 @@
+# RustServerConfig
+
+server.hostname "[FR] LES MONTAGNARDS - WIPED LUNDI 06/08/18 "
+
+server.description "Bienvenue sur notre serveur RUST sans mode. L'expérience RUST authentique du terrorie. \nLes règles sont simples:\n-WIPE MAP chaque lundi à 4h du matin\n-Pas de WIPE blueprint sauf si imposée par les développeurs\n-Supply event chaque heure afin de récompenser les joueurs les plus persévérents\n-Pas de triche ou d'exploitation de glitch (Vous pouvez me signaler les perturbateurs ici @ mistergrosbot at gmail dot com) \n-Pas d'insultes concernant les mamans\n\nTout le reste est autorisé.\n\nBon jeu !"
+
+server.maxplayers 200
+server.seed 800
+server.worldsize 3000
+server.headerimage ""
+server.saveinterval 240
+server.secure true
+server.radiation false
+
+nav_disable false
+fps.limit 31
+bradley.enabled true
+heli.bulletdamagescale 0.5
+heli.bulletaccuracy 0.5
+server.respawnresetrange 20
+server.idlekickmode 1
+server.idlekickadmins 0
+
+spawn.min_rate 1
+spawn.max_rate 4
+spawn.min_density 1
+spawn.max_density 4
