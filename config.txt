@@ -29,3 +29,5 @@ spawn.min_rate 1
 spawn.max_rate 4
 spawn.min_density 1
 spawn.max_density 4
+
+antihack.debuglevel 1
