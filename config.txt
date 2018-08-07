@@ -17,7 +17,7 @@ server.secure true
 server.radiation false
 
 nav_disable false
-fps.limit 31
+fps.limit 61
 bradley.enabled true
 heli.bulletdamagescale 0.5
 heli.bulletaccuracy 0.5
