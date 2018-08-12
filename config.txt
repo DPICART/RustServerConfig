@@ -4,12 +4,12 @@
 # https://image.ibb.co/fbWETz/image_320818_342805.gif
 # https://www.battlemetrics.com/servers/rust/2450989
 
-server.hostname "[FR] LES MONTAGNARDS - WIPED LUNDI 06/08/18 "
+server.hostname "[FR] LES MONTAGNARDS - WIPED LUNDI 14/08/18 "
 
 server.description "Bienvenue sur notre serveur RUST VANILLA (= sans MOD). L'expérience RUST authentique du terroire. \nLes règles sont simples:\n-WIPE MAP chaque lundi à 4h du matin\n-Pas de WIPE blueprint sauf si imposée par les développeurs\n-Supply event chaque heure afin de récompenser les joueurs les plus persévérents\n-Pas de triche ou d'exploitation de glitch (Vous pouvez me signaler les perturbateurs ici @ mistergrosbot at gmail dot com) \n-Pas d'insulte concernant les mamans\n\nTout le reste est autorisé.\n\nLe Github de config: https://github.com/DPICART/RustServerConfig \n\nBon jeu !"
 
 server.maxplayers 200
-server.seed 800
+server.seed 900
 server.worldsize 3000
 server.headerimage ""
 server.saveinterval 240
@@ -31,3 +31,10 @@ spawn.min_density 1
 spawn.max_density 4
 
 antihack.debuglevel 1
+
+# For VoodooSmoke  ;)
+xmas.enabled true
+xmas.giftsperplayer
+xmas.spawnrange 15
+xmas.spawnattempts 10
+
