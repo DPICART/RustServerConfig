@@ -1,5 +1,5 @@
 # RustServerConfig
-# 51.254.90.185
+# 54.37.246.227
 # https://topg.org/rust_banner_maker
 # https://image.ibb.co/fbWETz/image_320818_342805.gif
 # https://www.battlemetrics.com/servers/rust/2450989
