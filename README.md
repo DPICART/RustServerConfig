@@ -4,4 +4,4 @@ Configuration used in order to configure a RUST SERVER
 
 If you want to join it:
 
-client.connect 51.254.90.185:28015
+client.connect 54.37.246.227:28015
