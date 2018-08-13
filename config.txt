@@ -11,13 +11,13 @@ server.description "Bienvenue sur notre serveur RUST VANILLA (= sans MOD). L'exp
 server.maxplayers 200
 server.seed 1000
 server.worldsize 3000
-server.headerimage ""
+server.headerimage "https://image.ibb.co/fbWETz/image_320818_342805.gif"
 server.saveinterval 240
 server.secure true
 server.radiation false
 
 nav_disable false
-fps.limit 61
+fps.limit 31
 bradley.enabled true
 heli.bulletdamagescale 0.5
 heli.bulletaccuracy 0.5
