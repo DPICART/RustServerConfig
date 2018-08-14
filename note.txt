@@ -1,0 +1,11 @@
+For the red:
+
+    Hex #CE422B
+
+    RGB (206, 66, 43)
+
+For the black:
+
+    Hex #281C1C
+
+    RGB (40, 28, 28)
