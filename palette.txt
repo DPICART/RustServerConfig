@@ -1,2 +1,3 @@
 $rust-red: #CE422B;
-$rust-black: #948c87;
+$rust-black: #281C1C;
+$rust-grey: #948c87;
