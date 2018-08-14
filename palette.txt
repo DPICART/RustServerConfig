@@ -1,0 +1,2 @@
+$rust-red: #CE422B;
+$rust-black: #948c87;
